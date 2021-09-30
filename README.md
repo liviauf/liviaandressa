@@ -1,5 +1,8 @@
-##OLÁ, EU SOU A LÍVIA SANTOS
-- 🌱 I’m currently learning Python
+Oii, eu sou a Lívia 🙋‍♀️😊
+
+◻ Atualmente estou estudando Python
+
+◻ Aqui compartilho algumas coisas que aprendo nas aulas e pequenos projetos usando HTML5 e CSS3 
  <div>
 <div align = "center" >
   <a href="https://github.com/liviaandressa">
