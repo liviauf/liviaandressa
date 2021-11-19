@@ -1,8 +1,8 @@
 Oii, eu sou a Lívia 🙋‍♀️😊
 
-◻ Atualmente estou estudando Python
+◻ Atualmente estou estudando Python e Django
 
-◻ Aqui compartilho algumas coisas que aprendo nas aulas e pequenos projetos usando HTML5 e CSS3 
+◻ Aqui compartilho algumas coisas que aprendo nas aulas
  <div>
 <div align = "center" >
   <a href="https://github.com/liviaandressa">
