@@ -1,15 +1,15 @@
 <div>
- <h4  font = "Courier, monospace" >Oii, eu sou a Lívia 🙋‍♀️😊</h4>
+ <h4  font = "Courier, monospace" >hello, eu sou a Lívia 🙋‍♀️😊</h4>
 
-◻ Atualmente estou estudando Python e Django
-
-◻ Aqui compartilho algumas coisas que aprendo nas aulas
+◻ Atualmente estou estudando Python, Django e vendo um pouco sobre Arduino.
+ 
+◻ Aqui compartilho alguns projetos que faço em cursos (principalemte exercícios) e projetos aleatórios que desenvolvo quando estou inspirada
 </div>
  <div>
 <div align = "center" >
   <a href="https://github.com/liviaandressa">
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=liviaandressa&show_icons=true&theme=jolly&include_all_commits=true&count_private=true" />
-  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=liviaandressa&layout=compact&langs_count=7&theme=jolly" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api?username=liviaandressa&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+  <img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=liviaandressa&layout=compact&langs_count=7&theme=react" />
 </div
     
  <div style = "display: inline_block"> <br>
