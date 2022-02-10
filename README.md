@@ -3,7 +3,7 @@
 
 ◻ Atualmente estou estudando Python, Django, desenvolvendo pequenas páginas Web e vendo um pouco sobre Arduino. (Sim, uma bela mistura)
  
-◻ Aqui compartilho alguns projetos que faço em cursos (principalemte exercícios), exercícios propostos na Universidade onde estudo e projetos aleatórios que desenvolvo quando estou inspirada.
+◻ Aqui compartilho alguns projetos que faço em cursos (principalmente exercícios), exercícios propostos na Universidade onde estudo e projetos aleatórios que desenvolvo quando estou inspirada.
 </div>
  <div>
 <div align = "center" >
